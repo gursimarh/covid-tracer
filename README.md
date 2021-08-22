@@ -1,1 +1,1 @@
-# covid-tracer
+# Covid-Tracer Flutter App
